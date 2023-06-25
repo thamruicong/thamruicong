@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/thamruicong)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/thamruicong?ext=activity)](https://leetcode.com/thamruicong)
 
 <!--
 **thamruicong/thamruicong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
