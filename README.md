@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Rui Cong's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamruicong&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/thamruicong?ext=activity)](https://leetcode.com/thamruicong)
 
 <!--
